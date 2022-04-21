@@ -1,3 +1,6 @@
+//It has to compile by a later version of C++17!!
+//g++ -std=c++17 main.cpp
+
 #include <memory>
 #include <iostream>
 #include <string>
